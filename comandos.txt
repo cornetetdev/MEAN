@@ -1,3 +1,30 @@
+npm install express --save
+npm install mongoose --save
+npm install angular --save
+npm install angular-ui-router --save
+npm install bootstrap --save
+
+npm init
+{
+ "name": "mean_app",
+ "version": "1.0.0",
+ "description": "mean app",
+ "main": "server.js", 
+ "scripts": {
+ "test": "echo \"Error: no test specified\" && exit 1",
+ "start": "node server.js"
+ },
+ "keywords": [
+ "mean",
+ "crud",
+ "crud",
+ "operations"
+ ],
+ "author": "shailendra",
+ "license": "ISC"
+}
+
+
 npm init: Cria uma package json com os dados do projeto
 
 mongod --storageEngine=mmapv1 --dbpath D:/Desenvolvimento/MEAN/MEAN_App
