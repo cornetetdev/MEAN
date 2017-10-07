@@ -1,0 +1,11 @@
+npm init: Cria uma package json com os dados do projeto
+
+mongod --storageEngine=mmapv1 --dbpath D:/Desenvolvimento/MEAN/MEAN_App
+Esse comando inicia o banco de dados
+
+mongod --storageEngine=mmapv1 --dbpath D:/Desenvolvimento/MEAN/MEAN_App --repair
+Repara caso der erro ao iniciar o mongodb
+
+
+
+
